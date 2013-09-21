@@ -22,7 +22,6 @@
     <string name="create_room_btn">Neuer Chatroom!</string>
 
     <string name="menu_add_room">Chatroom hinzufügen</string>
-    <string name="menu_add_message">Nachrichten hinzufügen</string>
 
     <string name="location_gps_popup_title">GPS ist nicht aktiviert.</string>
     <string name="location_gps_popup_message">Als eine location-aware Chat-Anwendung erfordert SpeakUp GPS-Zugriff. Möchten Sie GPS bei der Einstellungen einschalten?</string>
@@ -39,7 +38,6 @@
 
     <string name="chat_room_activity">Chatroom...</string>
 
-    <string name="msg_create_new_msg">Ihre Nachrichten senden!</string>
     <string name="msg_message_editor_empty_error">Wir können keine leere Nachricht mit Ihren Freunden teilen. Bitte schreiben Sie eine Nachricht in das Feld oben!</string>
     <string name="msg_message_editor_too_large_error">Niemand möchte so viel Text lesen! Ihr Text sollte weniger als 500 Zeichen sein.</string>
     <string name="msg_publish_new_msg">Neue Nachricht!</string>

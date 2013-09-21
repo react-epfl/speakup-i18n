@@ -22,7 +22,6 @@
     <string name="create_room_btn">Créez!</string>
 
     <string name="menu_add_room">Ajouter une salle</string>
-    <string name="menu_add_message">Ajouter un message</string>
 
     <string name="location_gps_popup_title">Le GPS n\'est pas activé.</string>
     <string name="location_gps_popup_message">SpeakUp a besoin de la localisation, voulez-vous enclencher le GPS dans vos réglages?</string>
@@ -39,7 +38,6 @@
 
     <string name="chat_room_activity">Salle de discussion...</string>
 
-    <string name="msg_create_new_msg">Publiez votre message!</string>
     <string name="msg_message_editor_empty_error">Le message ne doit pas être vide!</string>
     <string name="msg_message_editor_too_large_error">Personne ne va lire autant de texte, restreignez-vous à 500 carachtères</string>
     <string name="msg_publish_new_msg">Publier!</string>

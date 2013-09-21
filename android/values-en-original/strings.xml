@@ -22,7 +22,6 @@
     <string name="create_room_btn">Create!</string>
 
     <string name="menu_add_room">Add chat room</string>
-    <string name="menu_add_message">Add message</string>
 
     <string name="location_gps_popup_title">GPS is not enabled.</string>
     <string name="location_gps_popup_message">SpeakUp is a location-aware chat application that requires GPS access. Do you want to go to the settings menu to turn the GPS on?</string>
@@ -39,7 +38,6 @@
 
     <string name="chat_room_activity">Chat room...</string>
 
-    <string name="msg_create_new_msg">Publish your message!</string>
     <string name="msg_message_editor_empty_error">We can\'t share emptiness with your friends. Please, write a message in the box above!</string>
     <string name="msg_message_editor_too_large_error">Who is going to read so much text?! Your text should be less than 500 characters.</string>
     <string name="msg_publish_new_msg">Post!</string>
