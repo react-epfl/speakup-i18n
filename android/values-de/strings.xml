@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpeakUp!</string>
+    <string name="no_rooms">Kein Chatroom ist frei! Schaffen Sie einen mit dem "+"-Knopf oben!</string>
+    <string name="loading_rooms">Entdecken Sie die Chatrooms in Ihrer Umgebung...</string>
+    <string name="fetching_location_connect_service">Holen Sie Ihren Standort und Verbindung zur Speakup Service...</string>
+    <string name="room_refreshing_msg">Aktualisieren Sie Ihre Chatrooms...</string>
+    <string name="refresh_rooms_on_pull_msg">Ziehen Sie um zu aktualisieren...</string>
+    <string name="messages_refreshing_msg">Aktualisieren Sie alle Nachrichten...</string>
+
+    <!-- remark: the next 2 strings are a repetition for the pulldown to refresh lib -->
+    <string name="pull_to_refresh_pull_label">Ziehen Sie um zu aktualisieren...</string>
+    <string name="pull_to_refresh_refreshing_label">Aktualisieren Sie alle Nachrichten...</string>
+
+    <string name="edit_room_name_lbl">Name:</string>
+    <string name="chat_room_create_activity">Neuer Chatroom!</string>
+    <string name="message_room_editor">Nur Menschen in Ihrer Nähe werden diesen Chatroom sehen.</string>
+    <string name="message_room_editor_error">Der Name des Chatrooms kann nicht leer sein!</string>
+    <string name="room_name_hint">Hier geht es los ;-)</string>
+    <string name="room_saving_msg">Speichern %s...</string>
+    <string name="room_created_msg">Yay! Ihr Chatroom ist bereit für Chitchat!</string>
+    <string name="create_room_btn">Neuer Chatroom!</string>
+
+    <string name="menu_add_room">Chatroom hinzufügen</string>
+    <string name="menu_add_message">Nachrichten hinzufügen</string>
+
+    <string name="location_gps_popup_title">GPS ist nicht aktiviert.</string>
+    <string name="location_gps_popup_message">Als eine location-aware Chat-Anwendung erfordert SpeakUp GPS-Zugriff. Möchten Sie GPS bei der Einstellungen einschalten?</string>
+    <string name="location_gps_popup_go_to_settings">Einstellungen</string>
+    <string name="location_gps_popup_cancel">Abbrechen</string>
+
+    <string name="network_wifi_popup_title">Netzwerk ist nicht aktiviert.</string>
+    <string name="network_wifi_popup_message">SpeakUp erfordert Netzwerk-Zugriff. Ihr Smartphone hat keinen Zugriff auf das Internet. Möchten Sie WiFi bei der Einstellungen einschalten?</string>
+    <string name="network_wifi_popup_go_to_settings">Einstellungen</string>
+    <string name="network_wifi_popup_cancel">Abbrechen</string>
+
+    <string name="speakup_service_unavailable_msg">Oops! Die SpeakUp Service scheint nicht verfügbar zu sein oder Ihr Internetzugang ist instabil. Bitte versuchen Sie es später erneut...</string>
+    <string name="speakup_service_connected">Verbingung zur SpeakUp Service. Sitzung baut auf...</string>
+
+    <string name="chat_room_activity">Chatroom...</string>
+
+    <string name="msg_create_new_msg">Ihre Nachrichten senden!</string>
+    <string name="msg_message_editor_empty_error">Wir können keine leere Nachricht mit Ihren Freunden teilen. Bitte schreiben Sie eine Nachricht in das Feld oben!</string>
+    <string name="msg_message_editor_too_large_error">Niemand möchte so viel Text lesen! Ihr Text sollte weniger als 500 Zeichen sein.</string>
+    <string name="msg_publish_new_msg">Neue Nachricht!</string>
+    <string name="msg_publish_msg_hint">Woran denken Sie gerade?</string>
+    <string name="msg_publishing_message">Nachricht senden...</string>
+    <string name="msg_rating_failed_error_msg">Oops! Ein Problem  hat beim Speichern der Bewertung aufgetaucht... Bitte versuchen Sie es erneut!</string>
+    <string name="msg_rating_format" formatted="false">(%s Stimmen)</string>
+    <string name="msg_rating_one_vote_format" formatted="false">(%s Abstimmen)</string>
+    <string name="msg_dialog_room_deleted_msg">Der "%s" Chatroom ist entfernt geworden. Keine neuen Nachrichten oder Bewertungen können gesendet werden. Sie sollten den Chatroom verlassen...</string>
+    <string name="msg_dialog_room_deleted_title">Den Chatroom verlassen...</string>
+    <string name="msg_dialog_room_deleted_btn">Den Chatroom verlassen</string>
+    <string name="loading_messages">Die Nachrichten laden...</string>
+
+</resources>

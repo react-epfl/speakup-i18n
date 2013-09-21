@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpeakUp!</string>
+    <string name="no_rooms">Pas de salle disponible! Appuyez sur "+" pour en créer une!</string>
+    <string name="loading_rooms">Charge les salles à proximité...</string>
+    <string name="fetching_location_connect_service">Calcule votre localisation et se connecte au serveur...</string>
+    <string name="room_refreshing_msg">Rafraîchi les salles...</string>
+    <string name="refresh_rooms_on_pull_msg">Tirez pour rafraîchir...</string>
+    <string name="messages_refreshing_msg">Rafraîchi les messages...</string>
+
+    <!-- remark: the next 2 strings are a repetition for the pulldown to refresh lib -->
+    <string name="pull_to_refresh_pull_label">Tirez pour rafraîchir...</string>
+    <string name="pull_to_refresh_refreshing_label">Rafraîchi les messages...</string>
+
+    <string name="edit_room_name_lbl">Nom:</string>
+    <string name="chat_room_create_activity">Créez votre salle!</string>
+    <string name="message_room_editor">Seuls les gens à proximité peuvent voir cette salle.</string>
+    <string name="message_room_editor_error">Le nom de la salle ne doit pas être vide!</string>
+    <string name="room_name_hint">Chez toi ou chez moi? ;-)</string>
+    <string name="room_saving_msg">Enregistre %s...</string>
+    <string name="room_created_msg">Youhou! Votre salle est prête pour papoter!</string>
+    <string name="create_room_btn">Créez!</string>
+
+    <string name="menu_add_room">Ajouter une salle</string>
+    <string name="menu_add_message">Ajouter un message</string>
+
+    <string name="location_gps_popup_title">Le GPS n\'est pas activé.</string>
+    <string name="location_gps_popup_message">SpeakUp a besoin de la localisation, voulez-vous enclencher le GPS dans vos réglages?</string>
+    <string name="location_gps_popup_go_to_settings">Réglages</string>
+    <string name="location_gps_popup_cancel">Annuler</string>
+
+    <string name="network_wifi_popup_title">Le réseau n\'est pas disponible.</string>
+    <string name="network_wifi_popup_message">SpeakUp a besoin du réseau, voulez-vous vous connecter au WiFi depuis vos réglages?</string>
+    <string name="network_wifi_popup_go_to_settings">Réglages</string>
+    <string name="network_wifi_popup_cancel">Annuler</string>
+
+    <string name="speakup_service_unavailable_msg">Oops! La connection est intéronpue, veuillez essayer plus tard...</string>
+    <string name="speakup_service_connected">Connecté! veullez patienter pendant le démarrage...</string>
+
+    <string name="chat_room_activity">Salle de discussion...</string>
+
+    <string name="msg_create_new_msg">Publiez votre message!</string>
+    <string name="msg_message_editor_empty_error">Le message ne doit pas être vide!</string>
+    <string name="msg_message_editor_too_large_error">Personne ne va lire autant de texte, restreignez-vous à 500 carachtères</string>
+    <string name="msg_publish_new_msg">Publier!</string>
+    <string name="msg_publish_msg_hint">A quoi pensez-vous?</string>
+    <string name="msg_publishing_message">Publie le message...</string>
+    <string name="msg_rating_failed_error_msg">Oops! Un problème est survenu pendant l\'enregistrement de votre vote, veuillez réessayer.</string>
+    <string name="msg_rating_format" formatted="false">(%s votes)</string>
+    <string name="msg_rating_one_vote_format" formatted="false">(%s vote)</string>
+    <string name="msg_dialog_room_deleted_msg">La salle "%s" a été effacée, vous devez la quitter...</string>
+    <string name="msg_dialog_room_deleted_title">Quite la salle...</string>
+    <string name="msg_dialog_room_deleted_btn">Quiter cette salle</string>
+    <string name="loading_messages">Charge les messages...</string>
+
+</resources>
