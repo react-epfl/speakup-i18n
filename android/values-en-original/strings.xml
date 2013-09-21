@@ -58,5 +58,7 @@
     <string name="unlock_room">Unlock</string>
     <string name="unlock_btn_msg">Unlock</string>
     <string name="msg_unlock_hint">.....</string>
+    <string name="msg_unlock_failed">Your key is not valid! Try again...</string>
+    <string name="msg_unlock_success" formatted="false">Hurrah! You unlocked the "%s" room!</string>
 
 </resources>
