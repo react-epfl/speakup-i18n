@@ -61,5 +61,6 @@
     <string name="msg_unlock_failed">Your key is not valid! Try again...</string>
     <string name="msg_unlock_success" formatted="false">Hurrah! You unlocked the "%s" room!</string>
     <string name="msg_show_avatars">Show avatars</string>
+    <string name="msg_hide_avatars">Hide avatars</string>
 
 </resources>

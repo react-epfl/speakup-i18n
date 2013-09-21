@@ -61,5 +61,6 @@
     <string name="msg_unlock_failed">Ihr Schlüssel ist nicht gültig! Versuchen Sie es noch einmal...</string>
     <string name="msg_unlock_success" formatted="false">Hurra! Sie haben den "%s" Chatroom entsperrt!</string>
     <string name="msg_show_avatars">Avatare Anzeigen</string>
+    <string name="msg_hide_avatars">Avatare Verstecken</string>
 
 </resources>
