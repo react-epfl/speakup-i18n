@@ -52,13 +52,14 @@
     <string name="loading_messages">Die Nachrichten laden...</string>
 
     <!-- new fields -->
-    <string name="rating_ranking">Best</string>
-    <string name="recent_ranking">Recent</string>
-    <string name="create_location_room">Location</string>
-    <string name="unlock_room">Unlock</string>
-    <string name="unlock_btn_msg">Unlock</string>
+    <string name="rating_ranking">Die Beste</string>
+    <string name="recent_ranking">Neuest</string>
+    <string name="create_location_room">Standort</string>
+    <string name="unlock_room">Entsperren</string>
+    <string name="unlock_btn_msg">Entsperren</string>
     <string name="msg_unlock_hint">.....</string>
-    <string name="msg_unlock_failed">Your key is not valid! Try again...</string>
-    <string name="msg_unlock_success" formatted="false">Hurrah! You unlocked the "%s" room!</string>
+    <string name="msg_unlock_failed">Ihr Schlüssel ist nicht gültig! Versuchen Sie es noch einmal...</string>
+    <string name="msg_unlock_success" formatted="false">Hurra! Sie haben den "%s" Chatroom entsperrt!</string>
+    <string name="msg_show_avatars">Avatare Anzeigen</string>
 
 </resources>
