@@ -43,10 +43,10 @@
     <string name="msg_publish_new_msg">Post!</string>
     <string name="msg_publish_msg_hint">What\'s on your mind?</string>
     <string name="msg_publishing_message">Posting your message...</string>
-    <string name="msg_rating_failed_error_msg">Oops! A problem popped up while saving your rating... Please, try again!</string>
+    <string name="msg_rating_failed_error_msg">Oops! A problem popped up while saving your vote... Please, try again!</string>
     <string name="msg_rating_format" formatted="false">(%s votes)</string>
     <string name="msg_rating_one_vote_format" formatted="false">(%s vote)</string>
-    <string name="msg_dialog_room_deleted_msg">The "%s" chat room has been deleted. No new messages or ratings can be posted. You will have to leave the room...</string>
+    <string name="msg_dialog_room_deleted_msg">The "%s" chat room has been deleted. No new messages or votes can be posted. You will have to leave the room...</string>
     <string name="msg_dialog_room_deleted_title">Leaving this room...</string>
     <string name="msg_dialog_room_deleted_btn">Leave this room</string>
     <string name="loading_messages">Loading the messages...</string>
