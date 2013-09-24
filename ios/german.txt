@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  SpeakUp
+
+  Created by Adrian Holzer on 15.08.13.
+  Copyright (c) 2013 Adrian Holzer. All rights reserved.
+*/
+
+
+
+"NO_ROOM"= "Kein Chatraum in der Nähe! Erstelle einen!";
+
+"ROOMS"="SpeakUp";
+
+"NO_LOCATION" = "Ortungsdienste nicht verfügbar";
+
+"NO_CONNECTION"= "Verbindung kann nicht hergestellt werden";
+
+"LOADING" = "lädt...";
+
+"CONNECTION_LOST" = "VERBINDUNG VERLOREN";
+
+"CONNECTION_ESTABLISHED" = "VERBINDUNG WIEDERHERGESTELLT";
+
+"ROOM_CLOSED" = "" ;
+
+"ROOM_CLOSED_LONG" = "" ;
+
+"OK" = "OK";
+
+"JUST_NOW" = "jetzt";
+
+"MINUTES_AGO" = "vor %d Minuten";
+
+"HOURS_AGO"="vor %d Stunden";
+
+"VOTE"="(%d Stimme)";
+
+"VOTES"="(%d Stimmen)";
+
+"CREATE_ROOM" = "Neuer Chatraum";
+
+"RATING_SORT" = "BEWERTUNG";
+
+"RECENT_SORT" = "ZEIT";
+
+"COMPOSE" = "";
+
+"COMMENT" = "";
+
+"UNLOCK" = "ÖFFNEN";
+
+"CREATE" = "ERSTELLEN";
+
+"ROOM_NAME" = "Namen";
+
+"ROOM_KEY" = "Schlüssel";
+
+"NEARBY_ROOMS" = "Chaträume in der Nähe";
+
+"UNLOCKED_ROOMS" = "Geöffnete Chaträume";
+
+"SEND" = "SENDEN";
+
+"PSEUDO" = "Avatare werden in diesem Chatraum gezeigt";
+
+"NO_MESSAGE" = "Es gibt keine Meldungen in diesem Chatraum. Schreibe eine!";
+
+"TURN_LOCATION_ON" = "Ortungsdienste müssen eingeschaltet sein, um neue Chaträume erstellen zu können.";
+
