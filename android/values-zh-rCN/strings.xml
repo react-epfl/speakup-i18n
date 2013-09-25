@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpeakUp!</string>
+    <string name="no_rooms">聊天室已客满！ 点击加号("+")新建一个！</string>
+    <string name="loading_rooms">显示在您附近的聊天室...</string>
+    <string name="fetching_location_connect_service">读取您的当前位置，并连通服务...</string>
+    <string name="room_refreshing_msg">刷新聊天室...</string>
+    <string name="refresh_rooms_on_pull_msg">下拉刷新...</string>
+    <string name="messages_refreshing_msg">刷新所有的消息...</string>
+
+    <!-- remark: the next 2 strings are a repetition for the pulldown to refresh lib -->
+    <string name="pull_to_refresh_pull_label">下拉刷新…</string>
+    <string name="pull_to_refresh_refreshing_label">加载…</string>
+
+    <string name="edit_room_name_lbl">名字:</string>
+    <string name="chat_room_create_activity">创建您的聊天室！</string>
+    <string name="message_room_editor">只有您的当前位置附近的人会看到这个聊天室。</string>
+    <string name="message_room_editor_error">聊天室必须有一个名称！</string>
+    <string name="room_name_hint">这是您要去的地方;-)</string>
+    <string name="room_saving_msg">保存 %s...</string>
+    <string name="room_created_msg">嗨！您的聊天室正待您的使用！</string>
+    <string name="create_room_btn">创建！</string>
+
+    <string name="menu_add_room">添加聊天室</string>
+
+    <string name="location_gps_popup_title">未启用GPS。</string>
+    <string name="location_gps_popup_message">SpeakUp是一个使用您当前位置的聊天应用程序，需要启用GPS。您要去\"设置\"菜单中开启GPS吗？</string>
+    <string name="location_gps_popup_go_to_settings">设置</string>
+    <string name="location_gps_popup_cancel">取消</string>
+
+    <string name="network_wifi_popup_title">上网功能没有开通。</string>
+    <string name="network_wifi_popup_message">SpeakUp需要上网，您的手机上网被关闭。您要去“设置”菜单中打开无线网络吗？</string>
+    <string name="network_wifi_popup_go_to_settings">设置</string>
+    <string name="network_wifi_popup_cancel">取消</string>
+
+    <string name="speakup_service_unavailable_msg">糟糕！可能是SpeakUp的服务有故障，或者您的网络不稳定。请稍后再试...</string>
+    <string name="speakup_service_connected">连接到SpeakUp。正在连接中...</string>
+
+    <string name="chat_room_activity">聊天室...</string>
+
+    <string name="msg_message_editor_empty_error">您无法和您的朋友分享空白消息。请在对话框中留下您的消息！</string>
+    <string name="msg_message_editor_too_large_error">有人愿意读长篇大论吗？！您的消息需少于250个字。</string>
+    <string name="msg_publish_new_msg">发送！</string>
+    <string name="msg_publish_msg_hint">您在想什么？</string>
+    <string name="msg_publishing_message">发送您的消息...</string>
+    <string name="msg_rating_failed_error_msg">糟糕！保存您的投票时出现问题... 请再试一次！</string>
+    <string name="msg_rating_format" formatted="false">(%s 投票)</string>
+    <string name="msg_rating_one_vote_format" formatted="false">(%s 投票)</string>
+    <string name="msg_dialog_room_deleted_msg"> "%s"这个聊天室已被删除，不再支持发送消息或投票，请离开...</string>
+    <string name="msg_dialog_room_deleted_title">正在离开这个聊天室...</string>
+    <string name="msg_dialog_room_deleted_btn">离开聊天室</string>
+    <string name="loading_messages">正在加载消息...</string>
+
+    <!-- new fields -->
+    <string name="rating_ranking">最好的</string>
+    <string name="recent_ranking">最新的</string>
+    <string name="create_location_room">当前位置</string>
+    <string name="unlock_room">解锁</string>
+    <string name="unlock_btn_msg">解锁</string>
+    <string name="msg_unlock_hint">.....</string>
+    <string name="msg_unlock_failed">你的钥匙无效！再试一次...</string>
+    <string name="msg_unlock_success" formatted="false">好哇！您已成功解锁这个聊天室"%s"！</string>
+    <string name="msg_show_avatars">显示头像</string>
+    <string name="msg_hide_avatars">隐藏头像</string>
+
+</resources>
