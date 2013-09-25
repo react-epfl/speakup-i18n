@@ -1,0 +1,65 @@
+"app_name"=SpeakUp!
+"no_rooms"=No rooms available! Create one with the "+"-button above!
+"loading_rooms"=Loading the chat rooms in your vicinity...
+"fetching_location_connect_service"=Fetching your location and connecting to the service...
+"room_refreshing_msg"=Refreshing the rooms...
+"refresh_rooms_on_pull_msg"=Pull down to refresh...
+"messages_refreshing_msg"=Refreshing all messages...
+
+"pull_to_refresh_pull_label"=Pull to refresh…
+"pull_to_refresh_refreshing_label"=Loading…
+
+"edit_room_name_lbl"=Name:
+"chat_room_create_activity"=Create your chat room!
+"message_room_editor"=Only people near your current location will see this room.
+"message_room_editor_error"=The name for the room cannot be empty!
+"room_name_hint"=The place to be ;-)
+"room_saving_msg"=Saving %s...
+"room_created_msg"=Yay! Your room is ready for chitchat!
+"create_room_btn"=Create!
+
+"menu_add_room"=Add chat room
+
+"location_gps_popup_title"=GPS is not enabled.
+"location_gps_popup_message"=SpeakUp is a location-aware chat application that requires GPS access. Do you want to go to the settings menu to turn the GPS on?
+"location_gps_popup_go_to_settings"=Settings
+"location_gps_popup_cancel"=Cancel
+
+"network_wifi_popup_title"=Network is not enabled.
+"network_wifi_popup_message"=SpeakUp requires network access. Your phone does not have access to the Internet. Do you want to go to the settings menu to turn WiFi on?
+"network_wifi_popup_go_to_settings"=Settings
+"network_wifi_popup_cancel"=Cancel
+
+"speakup_service_unavailable_msg"=Oops! The SpeakUp service seems to be unavailable or your Internet access is unstable. Please, try again later...
+"speakup_service_connected"=Connected to the SpeakUp service. Setting up session...
+
+"chat_room_activity"=Chat room...
+
+"msg_message_editor_empty_error"=We can\'t share emptiness with your friends. Please, write a message in the box above!
+"msg_message_editor_too_large_error"=Who is going to read so much text?! Your text should be less than 500 characters.
+"msg_publish_new_msg"=Post!
+"msg_publish_msg_hint"=What\'s on your mind?
+"msg_publishing_message"=Posting your message...
+"msg_rating_failed_error_msg"=Oops! A problem popped up while saving your vote... Please, try again!
+"msg_rating_format" formatted="false"=(%s votes)
+"msg_rating_one_vote_format" formatted="false"=(%s vote)
+"msg_dialog_room_deleted_msg"=The "%s" chat room has been deleted. No new messages or votes can be posted. You will have to leave the room...
+"msg_dialog_room_deleted_title"=Leaving this room...
+"msg_dialog_room_deleted_btn"=Leave this room
+"loading_messages"=Loading the messages...
+
+"rating_ranking"=Best
+"recent_ranking"=Recent
+"create_location_room"=Location
+"unlock_room"=Unlock
+"unlock_btn_msg"=Unlock
+"msg_unlock_hint"=.....
+"msg_unlock_failed"=Your key is not valid! Try again...
+"msg_unlock_success" formatted="false"=Hurrah! You unlocked the "%s" room!
+"msg_show_avatars"=Avatars shown
+"msg_hide_avatars"=Avatars hidden
+"update_speakup_popup_title"=Update SpeakUp
+"update_speakup_popup_msg"=You are using an old version of SpeakUp. Please, update SpeakUp. Thanks!
+"update_speakup_popup_action"=Update now
+"create_new_room_tutorial_msg"=Click here to create a room
+"no_messages_msg"=There are no messages yet. Quick, post the first one!

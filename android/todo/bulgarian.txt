@@ -1,0 +1,65 @@
+"app_name"=SpeakUp!
+"no_rooms"=Няма налични стаи! Създай стая със "+"-бутона отгоре!
+"loading_rooms"=Зареждане на чат стаите в твоята околност...
+"fetching_location_connect_service"=Засичане на локацията и свързване към услугата...
+"room_refreshing_msg"=Презареждане на стаите...
+"refresh_rooms_on_pull_msg"=Дръпнете надолу за да презаредите...
+"messages_refreshing_msg"=Презареждане на всички съобщения...
+
+"pull_to_refresh_pull_label"=Дръпнете за да презаредите…
+"pull_to_refresh_refreshing_label"=Презареждане…
+
+"edit_room_name_lbl"=Име:
+"chat_room_create_activity"=Създайте своя чат стая!
+"message_room_editor"=Само хора близо до вашата текуща локация ще видят тази стая.
+"message_room_editor_error"=Името на чат стаята не може да е празно!
+"room_name_hint"=Точното място ;-)
+"room_saving_msg"=Запазване на %s...
+"room_created_msg"=Твоята стая е готова за чат!
+"create_room_btn"=Създай!
+
+"menu_add_room"=Добави чат стая
+
+"location_gps_popup_title"=GPS не е включен.
+"location_gps_popup_message"=SpeakUp е чат приложение което разчита на локацията ти, и се нуждае от GPS достъп. Искаш ли да включиш GPS от меню настройки?
+"location_gps_popup_go_to_settings"=Настройки
+"location_gps_popup_cancel"=Откажи
+
+"network_wifi_popup_title"=Мрежата не е включена.
+"network_wifi_popup_message"=SpeakUp се нуждае от Интернет достъп. Твоя телефон няма Интернет. Искаш ли да се свържеш към Интернет от меню настройки?
+"network_wifi_popup_go_to_settings"=Настройки
+"network_wifi_popup_cancel"=Откажи
+
+"speakup_service_unavailable_msg"=SpeakUp услугата не е достъпна или имате проблем с Интернет достъпа. Моля, опитайте по късно...
+"speakup_service_connected"=Установена връзка със SpeakUp услугата. Създаване на сесия...
+
+"chat_room_activity"=Чат стая...
+
+"msg_message_editor_empty_error"=Не можеш да споделиш празно съобщение. Моля, напиши съобщение в полето отгоре!
+"msg_message_editor_too_large_error"=Текста е прекалено дълъг, трябва да бъде по малко от 500 символа!
+"msg_publish_new_msg"=Изпрати!
+"msg_publish_msg_hint"=Какво мислиш?
+"msg_publishing_message"=Съобщението се изпраща...
+"msg_rating_failed_error_msg"=Проблем със запазването на оценката... Моля, опитай пак!
+"msg_rating_format" formatted="false"=(%s гласа)
+"msg_rating_one_vote_format" formatted="false"=(%s глас)
+"msg_dialog_room_deleted_msg"=Чат стаята "%s" е изтрита. Нови съобщения и оценки не могат да бъдат изпратени. Трябва да напуснете стаята...
+"msg_dialog_room_deleted_title"=Напускане на стаята...
+"msg_dialog_room_deleted_btn"=Напуснете стаята
+"loading_messages"=Зареждаме на съобщенията...
+
+"rating_ranking"=Най-добри
+"recent_ranking"=Нови
+"create_location_room"=Локация
+"unlock_room"=Отключи
+"unlock_btn_msg"=Отключи
+"msg_unlock_hint"=.....
+"msg_unlock_failed"=Ключа е невалиден! Опитай пак...
+"msg_unlock_success" formatted="false"=Отключихте стая "%s"!
+"msg_show_avatars"=Аватарите показани
+"msg_hide_avatars"=Аватарите скрити
+"update_speakup_popup_title"=Обновете SpeakUp
+"update_speakup_popup_msg"=Използваш старя версия на SpeakUp. Моля, обновете SpeakUp. Благодаря!
+"update_speakup_popup_action"=Обновете сега
+"create_new_room_tutorial_msg"=Кликнете тук за да създадете нова стая
+"no_messages_msg"=Все още няма съобщения. Бързо, бъди първи!
