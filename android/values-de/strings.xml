@@ -2,24 +2,25 @@
 <resources>
     <string name="app_name">SpeakUp!</string>
     <string name="no_rooms">Kein Chatraum vorhanden! Erstelle einen mit dem "+"-Knopf oben!</string>
-    <string name="loading_rooms">Chaträume in der Umgebung werden geladen...</string>
-    <string name="fetching_location_connect_service">Standort wird abgerufen und eine Verbindung zum Speakup-Service wird aufgebaut...</string>
-    <string name="room_refreshing_msg">Chaträume werden aktualisiert...</string>
-    <string name="refresh_rooms_on_pull_msg">Zum Aktualisieren hier ziehen...</string>
-    <string name="messages_refreshing_msg">Nachrichten werden aktualisiert...</string>
+    <string name="loading_rooms">Chaträume in der Umgebung werden geladen…</string>
+    <string name="fetching_location_connect_service">Standort wird abgerufen und eine Verbindung zum Speakup-Service
+        wird aufgebaut…</string>
+    <string name="room_refreshing_msg">Chaträume werden aktualisiert…</string>
+    <string name="refresh_rooms_on_pull_msg">Zum Aktualisieren hier ziehen…</string>
+    <string name="messages_refreshing_msg">Nachrichten werden aktualisiert…</string>
 
     <!-- remark: the next 2 strings are a repetition for the pulldown to refresh lib -->
-    <string name="pull_to_refresh_pull_label">Zum Aktualisieren hier ziehen...</string>
-    <string name="pull_to_refresh_refreshing_label">Nachrichten werden aktualisiert...</string>
+    <string name="pull_to_refresh_pull_label">Zum Aktualisieren hier ziehen…</string>
+    <string name="pull_to_refresh_refreshing_label">Nachrichten werden aktualisiert…</string>
 
     <string name="edit_room_name_lbl">Name:</string>
     <string name="chat_room_create_activity">Neuer Chatraum!</string>
     <string name="message_room_editor">Nur Personen in der Nähe werden diesen Chatraum sehen.</string>
     <string name="message_room_editor_error">Der Name des Chatraums darf nicht leer sein!</string>
-    <string name="room_name_hint">Hier geht es los ;-)</string>
-    <string name="room_saving_msg">%s wird gespeichert...</string>
+    <string name="room_name_hint">Raumname</string>
+    <string name="room_saving_msg">%s wird gespeichert…</string>
     <string name="room_created_msg">Juhu! Der Chatraum ist bereit für Chitchat!</string>
-    <string name="create_room_btn">Neuer Chatraum!</string>
+    <string name="create_room_btn">Anlegen!</string>
 
     <string name="menu_add_room">Chatraum hinzufügen</string>
 
@@ -33,23 +34,26 @@
     <string name="network_wifi_popup_go_to_settings">Einstellungen</string>
     <string name="network_wifi_popup_cancel">Abbrechen</string>
 
-    <string name="speakup_service_unavailable_msg">Ups! Der SpeakUp-Service scheint nicht verfügbar zu sein oder die Internetverbindung ist instabil. Bitte später erneut versuchen...</string>
-    <string name="speakup_service_connected">Verbindung zum SpeakUp-Service hergestellt. Sitzung wird aufgebaut...</string>
+    <string name="speakup_service_unavailable_msg">Ups! Der SpeakUp-Service scheint nicht verfügbar zu sein oder die
+        Internetverbindung ist instabil. Bitte später erneut versuchen…</string>
+    <string name="speakup_service_connected">Verbindung zum SpeakUp-Service hergestellt. Sitzung wird aufgebaut…</string>
 
-    <string name="chat_room_activity">Chatraum...</string>
+    <string name="chat_room_activity">Chatraum…</string>
 
     <string name="msg_message_editor_empty_error">Leere Nachrichten können nicht mit Freunden geteilt werden. Bitte gib eine Nachricht in das Feld oben ein!</string>
     <string name="msg_message_editor_too_large_error">Niemand möchte so viel Text lesen! Der Text sollte weniger als 500 Zeichen lang sein.</string>
     <string name="msg_publish_new_msg">Neue Nachricht!</string>
     <string name="msg_publish_msg_hint">Woran denkst Du gerade?</string>
-    <string name="msg_publishing_message">Nachricht wird gesendet...</string>
-    <string name="msg_rating_failed_error_msg">Ups! Beim Speichern der Bewertung ist ein Problem aufgetreten... Bitte versuche es später erneut!</string>
+    <string name="msg_publishing_message">Nachricht wird gesendet…</string>
+    <string name="msg_rating_failed_error_msg">Ups! Beim Speichern der Bewertung ist ein Problem aufgetreten… Bitte
+        versuche es später erneut!</string>
     <string name="msg_rating_format" formatted="false">(%s Stimmen)</string>
     <string name="msg_rating_one_vote_format" formatted="false">(%s Stimme)</string>
-    <string name="msg_dialog_room_deleted_msg">Der "%s" Chatraum wurde entfernt. Keine neuen Nachrichten oder Bewertungen können gesendet werden. Du solltest den Chatraum verlassen...</string>
-    <string name="msg_dialog_room_deleted_title">Der Chatraum wird verlassen...</string>
+    <string name="msg_dialog_room_deleted_msg">Der "%s" Chatraum wurde entfernt. Keine neuen Nachrichten oder
+        Bewertungen können gesendet werden. Du solltest den Chatraum verlassen…</string>
+    <string name="msg_dialog_room_deleted_title">Der Chatraum wird verlassen…</string>
     <string name="msg_dialog_room_deleted_btn">Den Chatraum verlassen</string>
-    <string name="loading_messages">Die Nachrichten werden geladen...</string>
+    <string name="loading_messages">Die Nachrichten werden geladen…</string>
 
     <!-- new fields -->
     <string name="rating_ranking">Nach Bewertung</string>
@@ -57,11 +61,11 @@
     <string name="create_location_room">Positionsbasiert</string>
     <string name="unlock_room">Aufschliessen</string>
     <string name="unlock_btn_msg">Aufschliessen</string>
-    <string name="msg_unlock_hint">.....</string>
-    <string name="msg_unlock_failed">Der Schlüssel ist nicht korrekt! Erneut versuchen...</string>
+    <string name="msg_unlock_hint">......</string>
+    <string name="msg_unlock_failed">Der Schlüssel ist nicht korrekt! Erneut versuchen…</string>
     <string name="msg_unlock_success" formatted="false">Hurra! Der Raum "%s" wurde erfolgreich aufgeschlossen!</string>
-    <string name="msg_show_avatars">Avatare werden angezeigt</string>
-    <string name="msg_hide_avatars">Avatare werden nicht angezeigt</string>
+    <string name="msg_show_avatars">Avatare sind an</string>
+    <string name="msg_hide_avatars">Avatare sind aus</string>
     <string name="update_speakup_popup_title">SpeakUp aktualisieren</string>
     <string name="update_speakup_popup_msg">Du verwendest eine alte SpeakUp-Version. Bitte aktualisiere SpeakUp. Danke!</string>
     <string name="update_speakup_popup_action">Jetzt aktualisieren</string>

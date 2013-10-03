@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpeakUp!</string>
+    <string name="no_rooms">チャットルームはすでに満杯！“＋”ボタンで作成する！</string>
+    <string name="loading_rooms">周辺のチャートルームがロード…</string>
+    <string name="fetching_location_connect_service">位置認識（GPS）、サービスへの接続…</string>
+    <string name="room_refreshing_msg">チャットルーム（データなど）を更新する…</string>
+    <string name="refresh_rooms_on_pull_msg">更新ボッタンを引く…</string>
+    <string name="messages_refreshing_msg">全てのデータを更新…</string>
+
+    <!-- remark: the next 2 strings are a repetition for the pulldown to refresh lib -->
+    <string name="pull_to_refresh_pull_label">更新ボッタンを引く…</string>
+    <string name="pull_to_refresh_refreshing_label">読み込む…</string>
+
+    <string name="edit_room_name_lbl">名前:</string>
+    <string name="chat_room_create_activity">チャットルームを作成して下さい！</string>
+    <string name="message_room_editor">周辺に（居る）位置する人だけがこのチャートルームが表示される。</string>
+    <string name="message_room_editor_error">チャットルームに名前が必要！</string>
+    <string name="room_name_hint">このチャットルームへ ;-)</string>
+    <string name="room_saving_msg">保存する %s…</string>
+    <string name="room_created_msg">それではこのチャットルームを使用しよう！</string>
+    <string name="create_room_btn">作成！</string>
+
+    <string name="menu_add_room">チャットルーム追加</string>
+
+    <string name="location_gps_popup_title">GPSはOFFになっている。</string>
+    <string name="location_gps_popup_message">SpeakUpは、GPSへのアクセルを必要とするチャットアプリケーションで、GPSをオンにしなければならない。／設定／メニューへ、GPSをONにする。</string>
+    <string name="location_gps_popup_go_to_settings">設定</string>
+    <string name="location_gps_popup_cancel">取り消し</string>
+
+    <string name="network_wifi_popup_title">ネットアックセスは OFFになっている。</string>
+    <string name="network_wifi_popup_message">SpeakUpはネットワークのアックセスが必要とする。携帯はネットワークのアクセスができない。その時／設定／メニューからインターネットの接続をする（WiFiをオンにする）。</string>
+    <string name="network_wifi_popup_go_to_settings">設定</string>
+    <string name="network_wifi_popup_cancel">取り消し</string>
+
+    <string name="speakup_service_unavailable_msg">おっと！ SpeakUpサービスが利用できないと思う時：SpeakUpサービスの故障或いはネットワークに問題、後で再試行してください…</string>
+    <string name="speakup_service_connected">SpeakUpサービスに接続されている。接続中…</string>
+
+    <string name="chat_room_activity">チャットルーム…</string>
+
+    <string name="msg_message_editor_empty_error">他者と空白な空間を共有することはできない。チャットボックスにメッセージを書き込んでください！</string>
+    <string name="msg_message_editor_too_large_error">しかし、メッセージの長さは２５０文字以内。</string>
+    <string name="msg_publish_new_msg">送信!</string>
+    <string name="msg_publish_msg_hint">何を考えていますか？</string>
+    <string name="msg_publishing_message">あなたのメッセージを送信…</string>
+    <string name="msg_rating_failed_error_msg">おっと！あなたの投票をが保存中に問題が起こった。。。もう一回試して下さい！</string>
+    <string name="msg_rating_format" formatted="false">(%s 投票)</string>
+    <string name="msg_rating_one_vote_format" formatted="false">(%s 投票)</string>
+    <string name="msg_dialog_room_deleted_msg">"%s"のチャットルームは削除された。メッセージの書き込みや投票もできません。チャットルームから退去…</string>
+    <string name="msg_dialog_room_deleted_title">チャットルームから退去…</string>
+    <string name="msg_dialog_room_deleted_btn">チャットルームから退去</string>
+    <string name="loading_messages">メッセージをロード…</string>
+
+    <!-- new fields -->
+    <string name="rating_ranking">一番</string>
+    <string name="recent_ranking">最新の</string>
+    <string name="create_location_room">位置</string>
+    <string name="unlock_room">アンロック</string>
+    <string name="unlock_btn_msg">アンロック</string>
+    <string name="msg_unlock_hint">.....</string>
+    <string name="msg_unlock_failed">あなたのコードは有効ではありません！再試行する…</string>
+    <string name="msg_unlock_success" formatted="false">万歳！あなたは、"%s"チャットルームをアンロック！</string>
+    <string name="msg_show_avatars">画像表示</string>
+    <string name="msg_hide_avatars">画像を隠す</string>
+    <string name="update_speakup_popup_title">アップデートSpeakUp</string>
+    <string name="update_speakup_popup_msg">ご使用中のSpeakUpは最新バージョンではありません。最新バージョンにアップデートしてください。ご利用ありがとうございました。</string>
+    <string name="update_speakup_popup_action">すぐにアップデートする</string>
+    <string name="create_new_room_tutorial_msg">クリックして新しいチャットルームを作成</string>
+    <string name="no_messages_msg">まだメッセージが入っていません。早くメッセージを送信して！</string>
+
+</resources>
