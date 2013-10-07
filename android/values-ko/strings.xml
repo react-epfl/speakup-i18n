@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SpeakUp!</string>
+    <string name="no_rooms">방이 더이상 가능하지 않습니다. 위에 +버튼을 눌러 새 방을 만드세요.</string>
+    <string name="loading_rooms">근처의 방을 로딩하고 있습니다…</string>
+    <string name="fetching_location_connect_service">당신의 위치를 업데이트하고 있습니다…</string>
+    <string name="room_refreshing_msg">방을 새로고침 하세요…</string>
+    <string name="refresh_rooms_on_pull_msg">새로고침중…</string>
+    <string name="messages_refreshing_msg">모든 메세지를 새로 업데이트 하는 중입니다.</string>
+
+    <!-- remark: the next 2 strings are a repetition for the pulldown to refresh lib -->
+    <string name="pull_to_refresh_pull_label">새로고침중…</string>
+    <string name="pull_to_refresh_refreshing_label">로딩중…</string>
+
+    <string name="edit_room_name_lbl">이름:</string>
+    <string name="chat_room_create_activity">방을 만드세요.</string>
+    <string name="message_room_editor">현재 당신의 위치 근처의 방만 참여 할 수 잇습니다.</string>
+    <string name="message_room_editor_error">방이름은 비울 수 없습니다.</string>
+    <string name="room_name_hint">방의 힌트 ;-)</string>
+    <string name="room_saving_msg">저장중 %s…</string>
+    <string name="room_created_msg">당신의 방이 만들어져 있어요.</string>
+    <string name="create_room_btn">새로 만드세요!</string>
+
+    <string name="menu_add_room">또다른 방 추가하기</string>
+
+    <string name="location_gps_popup_title">GPS가 작동되지 않습니다.</string>
+    <string name="location_gps_popup_message">SpeakUp은 위치를 기반으로한 대화 어플래케이션 이기때문에 GPS 접속이 필요합니다. 환경설정에서 GPS를 켜시겠습니까?</string>
+    <string name="location_gps_popup_go_to_settings">설정</string>
+    <string name="location_gps_popup_cancel">취소</string>
+
+    <string name="network_wifi_popup_title">네트워크 오류.</string>
+    <string name="network_wifi_popup_message">SpeakUp는 네트워크가 접속되어야 이용이 가능합니다.  환경설정에서 WiFi를 켜시겠습니까?</string>
+    <string name="network_wifi_popup_go_to_settings">설정</string>
+    <string name="network_wifi_popup_cancel">취소</string>
+
+    <string name="speakup_service_unavailable_msg">어머나! SpeakUp의 인터넷 접속이 원활하지 않습니다. 나중에 시도해 주세요.</string>
+    <string name="speakup_service_connected">SpeakUp과 연결 되었습니다. 세션을 설정 중입니다…</string>
+
+    <string name="chat_room_activity">대화방…</string>
+
+    <string name="msg_message_editor_empty_error">참여자들과 빈공간을 공유할 수 없습니다. 메세지를 작성하세요!</string>
+    <string name="msg_message_editor_too_large_error">더 빠른 소통을 위해 글자는 500자 이하로 적어주세요.</string>
+    <string name="msg_publish_new_msg">작성!</string>
+    <string name="msg_publish_msg_hint">무슨생각을 하고 계시나요?</string>
+    <string name="msg_publishing_message">메세지를 작성하세요…</string>
+    <string name="msg_rating_failed_error_msg">어떻하죠? 당신의 투표를 저장하는 중에 오류가 생겼어요! 다시 시도 해주시겠어요?</string>
+    <string name="msg_rating_format" formatted="false">(%s 투표)</string>
+    <string name="msg_rating_one_vote_format" formatted="false">(%s 투표)</string>
+    <string name="msg_dialog_room_deleted_msg">그 "%s" 대화방은 더이상 존재하지 않습니다. 새로운 메세지 혹은 투표가 불가능 하니, 방에서 나오세요.</string>
+    <string name="msg_dialog_room_deleted_title">방을 떠나는 중…</string>
+    <string name="msg_dialog_room_deleted_btn">방 떠나기</string>
+    <string name="loading_messages">메세지 로딩중…</string>
+
+    <!-- new fields -->
+    <string name="rating_ranking">최고</string>
+    <string name="recent_ranking">최근</string>
+    <string name="create_location_room">위치</string>
+    <string name="unlock_room">잠금해제</string>
+    <string name="unlock_btn_msg">잠금해제</string>
+    <string name="msg_unlock_hint">......</string>
+    <string name="msg_unlock_failed">당신의 방키가 올바르지 않습니다. 다시 시도 해주세요.</string>
+    <string name="msg_unlock_success" formatted="false">"%s" 방이 잠금해제 되었습니다.!</string>
+    <string name="msg_show_avatars">아바타 보이기</string>
+    <string name="msg_hide_avatars">아바타 숨기기</string>
+    <string name="update_speakup_popup_title">SpeakUp 업데이트</string>
+    <string name="update_speakup_popup_msg">당신을 SpeakUp의 오래된 버젼을 사용 중입니다. 업데이트 해주세요!</string>
+    <string name="update_speakup_popup_action">지금 업데이트 하기</string>
+    <string name="create_new_room_tutorial_msg">이 곳을 눌러 업데이트 하세요.</string>
+    <string name="no_messages_msg">아직 메세지가 없네요. 먼저 메세지를 작성하시는게 어떠세요?</string>
+
+</resources>
