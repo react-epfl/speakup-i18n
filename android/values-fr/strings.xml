@@ -39,7 +39,7 @@
     <string name="chat_room_activity">Salle de discussion...</string>
 
     <string name="msg_message_editor_empty_error">Le message ne doit pas être vide!</string>
-    <string name="msg_message_editor_too_large_error">Personne ne va lire autant de texte, restreignez-vous à 500 carachtères</string>
+    <string name="msg_message_editor_too_large_error">Personne ne va lire autant de texte, restreignez-vous à 500 caractères</string>
     <string name="msg_publish_new_msg">Publier!</string>
     <string name="msg_publish_msg_hint">A quoi pensez-vous?</string>
     <string name="msg_publishing_message">Publie le message...</string>
@@ -52,15 +52,15 @@
     <string name="loading_messages">Charge les messages...</string>
 
     <!-- new fields -->
-    <string name="rating_ranking">Best</string>
-    <string name="recent_ranking">Recent</string>
-    <string name="create_location_room">Location</string>
-    <string name="unlock_room">Unlock</string>
-    <string name="unlock_btn_msg">Unlock</string>
+    <string name="rating_ranking">Meilleur</string>
+    <string name="recent_ranking">Plus récent</string>
+    <string name="create_location_room">Localisation</string>
+    <string name="unlock_room">Déverrouiller</string>
+    <string name="unlock_btn_msg">Déverrouiller</string>
     <string name="msg_unlock_hint">.....</string>
-    <string name="msg_unlock_failed">Your key is not valid! Try again...</string>
-    <string name="msg_unlock_success" formatted="false">Hurrah! You unlocked the "%s" room!</string>
-    <string name="msg_show_avatars">Show avatars</string>
-    <string name="msg_hide_avatars">Hide avatars</string>
+    <string name="msg_unlock_failed">Votre clé n'est pas correct, réessayez!'...</string>
+    <string name="msg_unlock_success" formatted="false">Yeah! Salle "%s" déverrouillée!</string>
+    <string name="msg_show_avatars">Afficher les avatars</string>
+    <string name="msg_hide_avatars">Cacher les avatars</string>
 
 </resources>
