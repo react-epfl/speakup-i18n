@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SpeakUp!</string>
+    <string name="no_rooms">No hay salas disponibles. ¡Crea una con el botón "+"!</string>
+    <string name="loading_rooms">Cargando las salas de tus alrededores…</string>
+    <string name="fetching_location_connect_service">Obteniendo tu localización y conectando al servicio…</string>
+    <string name="room_refreshing_msg">Recargando las salas…</string>
+    <string name="refresh_rooms_on_pull_msg">Desliza abajo para recargar…</string>
+    <string name="messages_refreshing_msg">Recargando todos los mensajes…</string>
+
+    <!-- remark: the next 2 strings are a repetition for the pulldown to refresh lib -->
+    <string name="pull_to_refresh_pull_label">Suelta para recargar…</string>
+    <string name="pull_to_refresh_refreshing_label">Cargando…</string>
+
+    <string name="edit_room_name_lbl">Nombre:</string>
+    <string name="chat_room_create_activity">¡Crea tu sala!</string>
+    <string name="message_room_editor">Sólo la gente cercana a tu ubicación verá esta sala.</string>
+    <string name="message_room_editor_error">¡El nombre de la sala no puede estar vacío!</string>
+    <string name="room_name_hint">El lugar ;-)</string>
+    <string name="room_saving_msg">Salvando %s…</string>
+    <string name="room_created_msg">¡Hurra! ¡Tu sala está lista para charlar!</string>
+    <string name="create_room_btn">¡Crear!</string>
+
+    <string name="menu_add_room">Añadir sala</string>
+
+    <string name="location_gps_popup_title">GPS deshabilitado.</string>
+    <string name="location_gps_popup_message">SpeakUp es una aplicación de chat geolocalizada que requiere acceso al GPS. ¿Quieres ir al menú de ajustes para encender el GPS?</string>
+    <string name="location_gps_popup_go_to_settings">Ajustes</string>
+    <string name="location_gps_popup_cancel">Cancelar</string>
+
+    <string name="network_wifi_popup_title">Red deshabilitada.</string>
+    <string name="network_wifi_popup_message">SpeakUp requiere acceso a la red. Tu teléfono no tiene acceso a Internet. ¿Quieres ir al menú de ajustes para configurar WiFi?</string>
+    <string name="network_wifi_popup_go_to_settings">Ajustes</string>
+    <string name="network_wifi_popup_cancel">Cancelar</string>
+
+    <string name="speakup_service_unavailable_msg">¡Uups! El servicio SpeakUp parece que no está disponibleo tu acceso a Internet no es estable. Por favor, inténtalo más tarde…</string>
+    <string name="speakup_service_connected">Conectado al servicio SpeakUp. Estableciendo la sesión…</string>
+
+    <string name="chat_room_activity">Sala…</string>
+
+    <string name="msg_message_editor_empty_error">No podemos compartir el vacío con tus amigos. Por favor, ¡escribe un mensaje arriba!</string>
+    <string name="msg_message_editor_too_large_error">¿Quién va a leer tanto? Tu texto debería ser inferior a 500 caracteres.</string>
+    <string name="msg_publish_new_msg">¡Enviar!</string>
+    <string name="msg_publish_msg_hint">¿En qué estás pensando?</string>
+    <string name="msg_publishing_message">Enviando tu mensaje…</string>
+    <string name="msg_rating_failed_error_msg">¡Ups! Un problema surgió mientras se salvaba tu voto… Por favor, ¡inténtalo más tarde!</string>
+    <string name="msg_rating_format" formatted="false">(%s votos)</string>
+    <string name="msg_rating_one_vote_format" formatted="false">(%s voto)</string>
+    <string name="msg_dialog_room_deleted_msg">La sala "%s" ha sido eliminada. Ningún mensaje o voto puede ser enviado. Tendrás que salir de la sala…</string>
+    <string name="msg_dialog_room_deleted_title">Saliendo de esta sala…</string>
+    <string name="msg_dialog_room_deleted_btn">Salir de esta sala</string>
+    <string name="loading_messages">Cargando mensajes…</string>
+
+    <!-- new fields -->
+    <string name="rating_ranking">El mejor</string>
+    <string name="recent_ranking">Reciente</string>
+    <string name="create_location_room">Ubicación</string>
+    <string name="unlock_room">Desbloquear</string>
+    <string name="unlock_btn_msg">Desbloquear</string>
+    <string name="msg_unlock_hint">......</string>
+    <string name="msg_unlock_failed">Tu clave no es válida. Vuelve a intentarlo…</string>
+    <string name="msg_unlock_success" formatted="false">¡Hurra! ¡Desbloqueaste la sala "%s"!</string>
+    <string name="msg_show_avatars">Avatares mostrados</string>
+    <string name="msg_hide_avatars">Avatares ocultos</string>
+    <string name="update_speakup_popup_title">Actualiza SpeakUp</string>
+    <string name="update_speakup_popup_msg">Estás usando una versión vieja de SpeakUp. Por favor, actualiza SpeakUp. ¡Gracias!</string>
+    <string name="update_speakup_popup_action">Actualizar ahora</string>
+    <string name="create_new_room_tutorial_msg">Haz click para crear una sala</string>
+    <string name="no_messages_msg">No hay mensajes todavía. Rápido, ¡sé el primero!</string>
+    <string name="show_key">Mostrar clave</string>
+
+</resources>
